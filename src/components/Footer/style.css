@@ -1,0 +1,35 @@
+.div-footer{
+    background-color: black;
+}
+
+.div-card{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-edit{
+    width: 470px;
+    height: 460px;
+    margin: 6px 10px;
+    border-radius: 7px;
+}
+.h2_obs{
+    width: 95%;
+    margin: 0 auto;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Footer2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+
+}
+.icon{
+    width: 150px;
+    height: 150px;
+}
